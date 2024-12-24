@@ -1,0 +1,1 @@
+1. Learn Git basics\n2. Practice branching and merging\n3. Push changes to GitHub
